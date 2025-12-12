@@ -12,8 +12,8 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Santa's Magical Wish List Generator",
-  description: "Create your magical Christmas wish list and let Santa judge if you've been naughty or nice!",
+  title: "Santa's Ultimate Wish List Generator",
+  description: "Create your magical Christmas wish list and let Santa judge if you've been childlike or nice!",
   generator: "v0.app",
   icons: {
     icon: [

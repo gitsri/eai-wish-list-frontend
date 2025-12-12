@@ -134,10 +134,10 @@ export function WishListGenerator() {
           </div>
         </div>
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold text-[#f8f4e8] mb-4 tracking-tight drop-shadow-lg text-balance">
-          Santa's Magical Wish List
+          Santa's Ultimate Wish List
         </h1>
         <p className="text-lg md:text-xl text-[#d4c5a0] font-sans max-w-2xl mx-auto text-balance">
-          Write your Christmas wishes on the enchanted parchment and let Santa judge if you've been naughty or nice
+          Write your Christmas wishes on the enchanted parchment and let Santa judge if you've been childlike or nice
         </p>
       </div>
 
